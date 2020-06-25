@@ -406,9 +406,7 @@ p, .seller-slider .media-body .media-heading{
 .uppercase{
 	text-transform:uppercase;
 }
-.div_center{
-    justify-content: center;
-}
+
 
 /*Buttons*/
 .btn-common, .btn-white, .btn-dark, .btn-light{
@@ -2266,20 +2264,22 @@ input[type="number"] {
   margin-bottom: 5px;
 }
 .tab_content .review-form textarea.form-control {
-  min-height: 150px;
+  min-height: 110px;
 }
 .tab_content .review-form input.form-control{
 	height:40px;
 }
 .tab_content .review-form .form-control{
-	margin-bottom:15px;
+	margin-bottom:20px;
 }
 	
 .product-info .tab_content p:last-child {
   margin-bottom: 0;
 }
 
-
+.raz div {
+  margin: 0 0 0 auto;
+}
 /* end .squaredThree */
 /* .squaredFour */
 .squaredFour {
