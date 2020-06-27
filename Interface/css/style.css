@@ -739,6 +739,10 @@ header nav.navbar.bootsnav ul.nav > li > a:before,
 .header-top-entry .title i{
 	margin-left:2px;
 }
+
+.fonted{
+font-size: 15pt;
+}
 .header-top-entry .list {
   border: none;
   background-color: #fff;
