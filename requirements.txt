@@ -36,7 +36,7 @@ django-rest-auth==0.9.5
 django-simple-captcha==0.5.12
 django-tinymce4-lite==1.7.4
 django-widget-tweaks==1.4.5
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 easy-thumbnails==2.7
 entrypoints==0.3
 et-xmlfile==1.0.1
