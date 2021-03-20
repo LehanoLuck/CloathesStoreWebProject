@@ -56,7 +56,7 @@ ipython-genutils==0.2.0
 isort==4.3.4
 jdcal==1.4.1
 jedi==0.15.1
-Jinja2==2.11.1
+Jinja2==2.11.3
 joblib==0.13.2
 jsmin==2.2.2
 jsonschema==3.0.2
